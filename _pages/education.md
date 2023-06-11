@@ -23,12 +23,14 @@ Electric Vehicles"
 <p style="text-align: left"><img src="../assets/img/IC2.png"></p>
 ### Imperial College London (2020 - 2023)
 
-##### *MEng Electrical and Electronic Engineering*  
-
-##### Year 1 
-- Programming for Engineers
-- Mathematics for Engineers 1 (Calculus I-III, Linear Algebra I)
-- Digital Electronics and Computer Architecture
+##### *MEng Electrical and Electronic Engineering* 
+##### Year 3 - To be assessed
+- Machine Learning
+- Computer Vision
+- High Level Programming
+- Communication Networks
+- Embedded Systems
+- Operations Research
 
 ##### Year 2 - Top 20% of cohort
 - Mathematics for Engineers 2 (Probability and Statistics, Linear Algebra II)
@@ -36,13 +38,10 @@ Electric Vehicles"
 - Instruction Architectures and Compilers
 - Software Systems
 
-##### Year 3 (To be assessed)
-- Machine Learning
-- Computer Vision
-- High Level Programming
-- Communication Networks
-- Embedded Systems
-- Operations Research
+##### Year 1 
+- Programming for Engineers
+- Mathematics for Engineers 1 (Calculus I-III, Linear Algebra I)
+- Digital Electronics and Computer Architecture
 <br/><br/>
 
 <p style="text-align: left"><img src="../assets/img/IC.jpg"></p>
