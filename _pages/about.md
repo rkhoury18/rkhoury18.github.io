@@ -1,26 +1,27 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Imperial College London
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: grad-pic.jpeg
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hello! My name is Rhea Khoury, and I am currently pursuing a major in Information and Electronic Engineering at Imperial College in London. This field has provided me with countless opportunities to nurture my creativity and refine my problem-solving skills.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Since my school days, I have been deeply passionate about creating and designing innovative solutions. Whether working independently or as part of a collaborative team, I have consistently focused on developing environmentally conscious and technically advanced projects. Throughout my journey, I have also immersed myself in coding, processor development, and machine design, applying my knowledge to bring ideas to life.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Growing up in diverse and multicultural environments has greatly enriched my interpersonal and intrapersonal skills. I take pride in being an accomplished, proactive, and self-motivated problem solver, critical thinker, and communicator. Fluent in English, French, and Arabic, I have the ability to connect with individuals from different backgrounds, fostering collaboration and understanding.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As of now, I am actively pursuing my second software internship, which has further fueled my passion for the field. I find the software industry incredibly captivating due to its dynamic nature and its potential to drive transformative change. Through this internship, I aim to enhance my skills, gain practical experience, and contribute to impactful projects.
+
+Within this portfolio, you will find a collection of my notable projects, experiences, and accomplishments. They serve as a testament to my abilities and dedication. As you explore my work, I hope to showcase my passion, creativity, and proficiency in the software industry.
