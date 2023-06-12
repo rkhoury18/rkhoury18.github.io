@@ -44,7 +44,7 @@ Electric Vehicles"
 - Digital Electronics and Computer Architecture
 <br/><br/>
 
-<p style="text-align: left"><img src="../assets/img/IC.png"></p>
+<p style="text-align: left"><img src="../assets/img/IC3.png"></p>
 ### Internationnal College Beirut Lebanon (2004-2020)
 ##### *French Baccalaureate*
 - Scienti
