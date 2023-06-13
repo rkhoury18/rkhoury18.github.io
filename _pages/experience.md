@@ -35,7 +35,7 @@ social: false  # includes social icons at the bottom of the page
 #### Imperial College London (Oct 2021 - Jan 2022)
 
 ##### *Undergraduate Teaching Assistant (Digital Electronics and Computer Architecture module)*
-- Tested software designed by the lecturer to make sure there were no bugs.
-- Answered questions and helped students during problem classes.
-- Guided students through labs and provided help when needed.
+- Responsible for debugging and testing code to eliminate errors caused by corner cases.
+- Assisted 200 students with lecture and lab related questions to enhance the overall material understanding.
+- Guided students through numerous sessions to develop thei problem solving skills.
 <br/><br/>
