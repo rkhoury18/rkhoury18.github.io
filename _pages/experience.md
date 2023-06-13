@@ -37,5 +37,5 @@ social: false  # includes social icons at the bottom of the page
 ##### *Undergraduate Teaching Assistant (Digital Electronics and Computer Architecture module)*
 - Responsible for debugging and testing code to eliminate errors caused by corner cases.
 - Assisted 200 students with lecture and lab related questions to enhance the overall material understanding.
-- Guided students through numerous sessions to develop thei problem solving skills.
+- Guided students through numerous sessions to develop their problem solving skills.
 <br/><br/>
