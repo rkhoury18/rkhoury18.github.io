@@ -11,7 +11,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-<p style="text-align: left"><img src="../assets/img/TTD.png"></p>
+<p style="text-align: left"><img src="../assets/img/TTD2.png"></p>
 #### The Trade Desk (Mar 2023 - Sep 2023)
 
 ##### *Software Engineering Intern (Distributive computing's Budget team)*
@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 - Wrote Design documents explaning all decisions made and components for internal use.
 <br/><br/>
 
-<p style="text-align: left"><img src="../assets/img/ARM.png"></p>
+<p style="text-align: left"><img src="../assets/img/ARM2.png"></p>
 #### ARM (Jul 2022 - Oct 2022)
 
 ##### *Software Engineering Intern (Open Source Software's Total Compute team)*
