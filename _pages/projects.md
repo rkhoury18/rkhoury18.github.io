@@ -5,12 +5,12 @@ permalink: /projects/
 description: A selection of projects - Click on them for details and pictures!
 nav: true
 nav_order: 3
-display_categories: [Coding and Machine Learning Projects, End-of-Year Projects]
+display_categories: [Machine Learning/Software , End-of-Year Projects]
 horizontal: false
 ---
 
 <!-- pages/projects.md -->
-<div class="Projects">
+<div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
