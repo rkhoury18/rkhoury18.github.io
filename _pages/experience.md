@@ -11,44 +11,31 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-<p style="text-align: left"><img src="../assets/img/imp_resize2.png"></p>
-#### Financial Signal Processing Lab, Imperial College London (Mar 2023 - Sep 2023)
+<p style="text-align: left"><img src="../assets/img/TTD.png"></p>
+#### The Trade Desk (Mar 2023 - Sep 2023)
 
-##### *Undergraduate Researcher*
-- Implemented code in order to web-scrap automatically thousands of financial news articles
-from online sources and apply NER filtering as well as pre-processing and feature extraction.
-- Main part of the project involves performing different sentiment analysis approaches
-to construct NLP-based bond portfolios. These include both lexicon-based approaches as well
-as deep-learning approaches where LLMs and GNNs will be employed.
-- To the best of our knowledge, this is the first study that uses LLMs and GNNs
-in the considered context
+##### *Software Engineering Intern (Distributive computing's Budget team)*
+- Developed an automated testing pipeline for the Budget Server's calculation results, utilising C# coding and implementation.
+- Utilised Kafka, Druid, and Clickhouse to establish a seamless data transmission and storage system for the calculation results.
+- Leveraged Python and SQL to perform comprehensive data querying, analysis, and report generation tasks, catering to the needs of the users.
+- Wrote many end to end and unit tests to make sure all components are functionning correctly.
+- Wrote Design documents explaning all decisions made and components for internal use.
 <br/><br/>
 
-#### Imperial College London (Jul 2022 - Sep 2022)
+<p style="text-align: left"><img src="../assets/img/ARM.png"></p>
+#### ARM (Jul 2022 - Oct 2022)
 
-##### *Undergraduate Research Assistant (UROP)*
-- Designed models using MATLAB and Simulink for the control of grid-tied DC/DC Converters
-and DC/AC inverters focusing on Modular Multilevel Converters (MMC) for use in VSC-HVDC applications.
-- Employed several algorithms/sub-systems to improve the accuracy and robustness of the
-models including PID and PIR controllers, park PLL systems, PWM generation with dead-time
-and filtering techniques.
+##### *Software Engineering Intern (Open Source Software's Total Compute team)*
+- Worked on developing graphics engine for android simulations to allow less resource intensive testing in C.
+- Investigated, debugged and cleaned code to make simulations run faster and to publish safer code.
+- Wrote Documentation explaining my work for internal use.
 <br/><br/>
 
-<p style="text-align: left"><img src="../assets/img/kios_resize.png"></p>
-#### KIOS Research and Innovation Centre of Excellence (Jul 2021 - Sep 2021)
+<p style="text-align: left"><img src="../assets/img/IC2.png"></p>
+#### Imperial College London (Oct 2021 - Jan 2022)
 
-##### *Research Assistant*
-- Part of the EU-funded C-AVOID project aiming to improve road safety by exploiting 5G networks
-to coordinate autonomous vehicles.
-- Employed signal processing techniques/algorithms such as edge detection and Kalman filtering to
-calculate the live distance between vehicles through perfect localization (precision of 20cm)
-using ArUco markers.
-- Utilised extensively Python packages and libraries in OpenCV including SciPy and NumPy.
+##### *Undergraduate Teaching Assistant (Digital Electronics and Computer Architecture module)*
+- Tested software designed by the lecturer to make sure there were no bugs.
+- Answered questions and helped students during problem classes.
+- Guided students through labs and provided help when needed.
 <br/><br/>
-
-<p style="text-align: left"><img src="../assets/img/army_resize.png"></p>
-#### National Guard of Cyprus (Jul 2019 - Sep 2020)
-
-##### *Sergeant Major*
-- Responsible for 10 soldiers coming from diverse environments and with different qualifications.
-- Planning the day-to-day activities, daily shifts, and weekly exits of soldiers from the camp.
