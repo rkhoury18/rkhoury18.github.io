@@ -16,11 +16,11 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello! My name is Rhea Khoury and I am currently majoring in Information and Electronic Engineering at Imperial College in London, I am enjoying the opportunity this major gives me to nail my creativity and problem-solving skills. 
+Hello! My name is Rhea Khoury and I am currently majoring in Information and Electronic Engineering at Imperial College in London. I am enjoying the opportunity this major gives me to nail my creativity and problem-solving skills. 
 
 Throughout my academic journey, I've been deeply engaged in projects focused on creating innovative solutions. Whether working independently or collaboratively, I've consistently developed environmentally conscious and technically advanced projects. My passion for coding, algorithms, and machine learning and design has allowed me to bring ideas to life.
 
-The exposure I’ve always had to multi-cultural environments has strengthened both my inter-personal and intra-personal skills. I am an accomplished, proactive and self-motivated problem solver, critical thinker and communicator; fluent in English, French and Arabic.
+The exposure I’ve always had to multi-cultural environments has strengthened both my inter-personal and intra-personal skills. I am an accomplished, proactive, self-motivated problem solver, critical thinker and communicator; fluent in English, French, and Arabic.
 
 I am currently pursuing my second software internship, which has further ignited my passion for the field. The dynamic nature and transformative potential of the software industry continue to captivate me. Through this internship, I aim to enhance my skills, gain practical experience, and contribute to impactful projects.
 

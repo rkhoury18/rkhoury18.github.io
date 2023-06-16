@@ -7,7 +7,7 @@ importance: 3
 category: Machine Learning/Software
 ---
 
-In a team o four we successfully developed Gymbro, a workout companion device. Gymbro is designed to assist you during your exercise sessions by providing various features such as rep counting, rest time tracking, and real-time data synchronization with a dedicated web application through HTTP.
+In a team of four we successfully developed Gymbro, a workout companion device. Gymbro is designed to assist you during your exercise sessions by providing various features such as rep counting, rest time tracking, and real-time data synchronization with a dedicated web application through HTTP.
 
 Utilizing an acceleration sensor, Gymbro accurately detects your movements, enabling precise rep counting and rest time monitoring. Whenever you achieve your target number of reps or your rest period comes to an end, Gymbro immediately alerts you through buzzing notifications, ensuring you stay on track with your workout goals. The code for the sensor was written in Python and implemented peak detection.
 

@@ -7,7 +7,7 @@ importance: 3
 category: Machine Learning/Software
 ---
 
-In a team of 2, developed and tested a C compiler in C++ for basic operations and employed object-oriented design. Used Lex and Yacc for the lexer and parser. The code for the design and test-benches can be found here .
+In a team of 2, we developed and tested a C compiler in C++ for basic operations and employed object-oriented design. Used Lex and Yacc for the lexer and parser. The code for the design and test-benches can be found here .
 
 
 <div class="row">

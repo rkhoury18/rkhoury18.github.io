@@ -6,9 +6,9 @@ img: assets/img/rover.jpeg
 importance: 4
 category: End-of-Year Projects
 ---
-In a team of 7 people, designed a rover with the main purpose being to navigate around an arena autonomously, avoid obstacles and send data to a database used to map the arena and keep track of obstacles. My work mainly focused on the control sub-system.
+In a team of 7 people, we designed a rover with the main purpose being to navigate around an arena autonomously, avoid obstacles and send data to a database used to map the arena and keep track of obstacles. My work mainly focused on the control sub-system.
 
-The control subsystem played a vital role in integrating all the other subsystems by utilizing a microcontroller (ESP32). My responsibilities involved establishing various connections, such as HTTP, to send obstacle and location data to the website/database, UART to receive obstacle data from the vision subsystem, SPI to obtain location data from the optical sensor... These connections were implemented using C++ (Arduino). Additionally, the microcontroller incorporated autonomous code to enable the rover to navigate independently. To accomplish this, I implemented the C* pathfinding algorithm. The full code can be found <a href="https://github.com/krishagrawal112/Autonomous-Rover">here</a> .
+The control subsystem played a vital role in integrating all the other subsystems by utilizing a microcontroller (ESP32). My responsibilities involved establishing various connections, such as HTTP, to send obstacle and location data to the website/database, UART to receive obstacle data from the vision subsystem, SPI to obtain location data from the optical sensor... These connections were implemented using C++ (Arduino). Additionally, the microcontroller incorporated autonomous code to enable the rover to navigate independently. To accomplish this, I implemented the A* pathfinding algorithm. The full code can be found <a href="https://github.com/krishagrawal112/Autonomous-Rover">here</a> .
 
 
 <div class="row">
