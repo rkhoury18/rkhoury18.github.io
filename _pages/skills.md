@@ -23,7 +23,7 @@ nav_order: 4
 - LEX/YACC
 
 ### Relevant Software
-- VsCode, Rider, Visual Studio Code
+- VsCode, Rider, Visual Studio
 - DB Visualizer
 - Docker, Kubernetes
 - Druid, Clickhouse 
