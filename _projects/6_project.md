@@ -1,80 +1,25 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Gymbro
+description: Coursework for 3rd Year module ELEC60013 - Embedded Systems
+img: assets/img/gymbro.jpg
+importance: 3
+category: Machine Learning/Software
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In a team o four we successfully developed Gymbro, a workout companion device. Gymbro is designed to assist you during your exercise sessions by providing various features such as rep counting, rest time tracking, and real-time data synchronization with a dedicated web application through HTTP.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Utilizing an acceleration sensor, Gymbro accurately detects your movements, enabling precise rep counting and rest time monitoring. Whenever you achieve your target number of reps or your rest period comes to an end, Gymbro immediately alerts you through buzzing notifications, ensuring you stay on track with your workout goals. The code for the sensor was written in Python and implemented peak detection.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+One of the key features of Gymbro is its seamless integration with the accompanying web application. The device wirelessly sends live data to the web app, allowing you to monitor your workout progress in real-time. As you perform exercises, Gymbro transmits the collected data, including rep counts and rest times, directly to the web app, ensuring that your workout history is continuously updated.
+
+The web application that we coded using CSS, HTML and JavaScript, serves as a centralized hub where users can create customized workouts, save their progress, and review their comprehensive workout history. By accessing the web app, you can track your performance over time, analyze trends, and make informed decisions about your fitness journey. The live data synchronization ensures that you have access to up-to-date information, empowering you to stay motivated and focused during your workouts. The full code can be found <a href="https://github.com/rkhoury18/Gymbro">here</a>.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/gymbro.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+Image of the Homepage of our webapp.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
