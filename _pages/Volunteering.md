@@ -14,7 +14,7 @@ nav_order: 6
 
 ##### *Student Volunteer*
 - Sold products to raise funds for the association such as calendars with children's drawings, chocolate boxes and candies. 
-- Paid regular visits to children suffering from cancer, supporting them with their studies and spending fun time with them ensuring by that both: beneficial and entertaining environment.
+- Paid regular visits to children suffering from cancer, supporting them with their studies and spending time with them ensuring by that both: beneficial and entertaining environment.
 - Sorted and distributed Christmas gift boxes to less fortunate children, ensuring by that a Smile is drawn on every child's face, regardless the circumstances faced in Lebanon.
 <br/><br/>
 
