@@ -28,7 +28,7 @@ I strongly believe in our responsibility to pay our society back. Hence, I activ
 3- Children: To ensure all kids are given equal opportunity to cherish the Holidays' Season, I actively participated in the logistics of a Christmas party for children of less fortunate families, preparing and serving dinner, animation and gifts distribution
 <br/><br/>
 
-#### Extra Curricular Activities
+#### Extracurricular Activities
 - Was part of the peer tutoring club in school tutoring over 50 of my peers.
 - Was on the football and track and field team representing my school and country in many internationnal competitions.
 - Part of the 1st team of my university's football team.
