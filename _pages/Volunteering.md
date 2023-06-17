@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /volunteering/
-title: Volunteering and Activities
+title: Volunteering & Activities
 description:
 nav: true
 nav_order: 6
