@@ -23,9 +23,9 @@ nav_order: 6
 
 ##### *Student Volunteer*
 I strongly believe in our responsibility to pay our society back. Hence, I actively engaged in the school's Social Community Services, including but not limited to:
-1- Environment: During the Beirut Marathon, we collected plastic water bottles for recycling supporting by that "Green Glass" recycling initiative in Lebanon, while maintaining clean roads at all times.
-2- Social Services: On several occasions, we visited public schools to entertain kids of all ages. Activities revolved around theatre plays, games, etc.
-3- Children: To ensure all kids are given equal opportunity to cherish the Holidays' Season, I actively participated in the logistics of a Christmas party for children of less fortunate families, preparing and serving dinner, animation and gifts distribution
+- Environment: During the Beirut Marathon, we collected plastic water bottles for recycling supporting by that "Green Glass" recycling initiative in Lebanon, while maintaining clean roads at all times.
+- Social Services: On several occasions, we visited public schools to entertain kids of all ages. Activities revolved around theatre plays, games, etc.
+- Children: To ensure all kids are given equal opportunity to cherish the Holidays' Season, I actively participated in the logistics of a Christmas party for children of less fortunate families, preparing and serving dinner, animation and gifts distribution
 <br/><br/>
 
 #### Extracurricular Activities
