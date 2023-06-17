@@ -48,4 +48,4 @@ Electric Vehicles"
 ### Internationnal College Beirut Lebanon (2004-2020)
 ##### *French Baccalaureate*
 - Scientific track 
-- Grade : 18.86 (congratulations of the jury)
+- Grade : 18.86/20 (congratulations of the jury)
