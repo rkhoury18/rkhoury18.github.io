@@ -15,7 +15,7 @@ nav_order: 6
 ##### *Student Volunteer*
 - Sold products to raise funds for the association such as calendars with children's drawings, chocolate boxes and candies. 
 - Paid regular visits to children suffering from cancer, supporting them with their studies and spending time with them ensuring by that both: beneficial and entertaining environment.
-- Sorted and distributed Christmas gift boxes to less fortunate children, ensuring by that a Smile is drawn on every child's face, regardless the circumstances faced in Lebanon.
+- Sorted and distributed Christmas gift boxes to less fortunate children, ensuring by that a smile is drawn on every child's face, regardless the circumstances faced in Lebanon.
 <br/><br/>
 
 <p style="text-align: left"><img src="../assets/img/IC4.png"></p>
@@ -29,11 +29,11 @@ I strongly believe in our responsibility to pay our society back. Hence, I activ
 <br/><br/>
 
 #### Extracurricular Activities
-- Was part of the peer tutoring club in school tutoring over 50 of my peers.
-- Was on the football and track and field team representing my school and country in many internationnal competitions.
-- Part of the 1st team of my university's football team.
-- Voted representative of the student council.
-- Was Class delegate for 6 years.
+- Participated in the peer tutoring club at school, providing tutoring support to more than 50 of my fellow students.
+- Competed in various international football and track and field events, representing both my school and country.
+- Earned a position on the first team of my university's football team, showcasing my skills and dedication.
+- Elected as a representative of the student council, actively voicing the concerns and opinions of my peers.
+- Served as the class delegate for six consecutive years, fostering communication and cooperation among classmates and the administration.
 
 
 
