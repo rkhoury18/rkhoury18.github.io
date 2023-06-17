@@ -31,7 +31,7 @@ I strongly believe in our responsibility to pay our society back. Hence, I activ
 #### Extra Curricular Activities
 - Was part of the peer tutoring club in school tutoring over 50 of my peers.
 - Was on the football and track and field team representing my school and country in many internationnal competitions.
-- Part of the 1st team of my university football team.
+- Part of the 1st team of my university's football team.
 - Voted representative of the student council.
 - Was Class delegate for 6 years.
 
