@@ -3,7 +3,7 @@ layout: page
 title: Artificial Neural Networks
 description: Coursework for 3rd Year module COMP70050 - Introduction to Machine Learning
 img: assets/img/ML.jpg
-importance: 3
+importance: 2
 category: Machine Learning/Software
 ---
 

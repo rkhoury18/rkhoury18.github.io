@@ -3,7 +3,7 @@ layout: page
 title: C Compiler
 description: Coursework for 2rd Year module ELEC50010 - Instruction Architectures and Compilers
 img: assets/img/lexer.jpg
-importance: 3
+importance: 5
 category: Machine Learning/Software
 ---
 
